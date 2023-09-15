@@ -7,3 +7,4 @@ next.config.json
 package.json
 README.md
 yarn.lock
+*.css
