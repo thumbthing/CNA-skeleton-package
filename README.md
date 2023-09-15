@@ -10,9 +10,14 @@
 
 create next app 프로젝트 진행 전 사용할 초기 세팅 프로젝트
 
-## 패키지 업데이트 여부
+## 패키지 업데이트
+## Date: 2023 / 09 / 15
 
-2023/09/14
+### Whats new
+
+1. `.css` 작성시 typscript/lint 규칙에 포함되어서 발생되는 lint error 해결
+2. `styled-components` lazy apply 해결을 위한 registry.tsx 파일 추가
+
 
 ---
 
